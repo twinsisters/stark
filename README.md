@@ -1,2 +1,2 @@
 # stark
-new personalized, not improved
+new personalized, ready to be not improved
