@@ -1,2 +1,2 @@
 # stark
-new personalized, ready to be improved
+new personalized, ready to be improved - still alive.
